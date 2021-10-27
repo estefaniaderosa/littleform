@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/littleform/static/css/main.82517696.chunk.css",
+    "main.js": "/littleform/static/js/main.b2562f34.chunk.js",
+    "main.js.map": "/littleform/static/js/main.b2562f34.chunk.js.map",
+    "runtime-main.js": "/littleform/static/js/runtime-main.f6a2d694.js",
+    "runtime-main.js.map": "/littleform/static/js/runtime-main.f6a2d694.js.map",
+    "static/js/2.49b830b3.chunk.js": "/littleform/static/js/2.49b830b3.chunk.js",
+    "static/js/2.49b830b3.chunk.js.map": "/littleform/static/js/2.49b830b3.chunk.js.map",
+    "index.html": "/littleform/index.html",
+    "static/css/main.82517696.chunk.css.map": "/littleform/static/css/main.82517696.chunk.css.map",
+    "static/js/2.49b830b3.chunk.js.LICENSE.txt": "/littleform/static/js/2.49b830b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a2d694.js",
+    "static/js/2.49b830b3.chunk.js",
+    "static/css/main.82517696.chunk.css",
+    "static/js/main.b2562f34.chunk.js"
+  ]
+}
